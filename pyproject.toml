@@ -3,7 +3,8 @@ name = "json-repair"
 version = "0.1.0"
 description = "Add your description here"
 authors = [
-    { name = "Krish120003", email = "krish120003@gmail.com" }
+    { name = "Krish120003", email = "krish120003@gmail.com" },
+    { name = "Arian Ahmadinejad", email = "ahmadinejadarian@gmail.com"}
 ]
 dependencies = []
 readme = "README.md"
